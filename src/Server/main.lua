@@ -15,7 +15,6 @@ local Plrs = game:GetService('Players')
 	Required modules
 --]]
 local constants = require(script.constants)
-local vectorMath = require(script.compute.math.vector)
 
 local reportCooldown = false
 
