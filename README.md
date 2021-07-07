@@ -1,9 +1,11 @@
 **Proximity Anticheat**
+
 A light and powerful anticheat module for Roblox.
 
 **Disclaimer: This anticheat might have false positives, and you may need to tweak it to your game's needs, remember, this is the reason why Roblox doesn't have an anticheat, you understand the best on how your game works and you need to make your game's architecture safe!**
 
 Usage Instructions:
+
 Make sure your filetree in Roblox looks something like this, otherwise, worst case scenario is it will probably not work/work as intended.
 
 ![alt text](https://github.com/xTrayambak/Proximity-Anticheat/blob/main/github_assets/filetree_example.png)
@@ -21,6 +23,7 @@ It is a constant struggle between exploit-makers and anti-exploit developers to 
 
 _______
 **Short Note**
+
 Please, if you're using this, consider supporting Syntax Studios, an indie game development studio and credit if you use this in your game, but it is your choice, completely fine if not. We're happy to help you.
 
 Happy anti-exploiting!
